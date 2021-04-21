@@ -16,6 +16,10 @@ const Header = () => {
                 
                 <div className={styles.header__right}>
                     <img className={styles.header__icons} src="/images/add.svg" width="26px" height="26px" alt="Add Icon"/>
+
+                    <img className={styles.header__icons} src="/images/bell.svg" width="26px" height="26px" alt="Add Icon"/>
+
+                    <img className={styles.header__avatar} src="https://www.w3schools.com/howto/img_avatar.png" width="26px" height="26px" alt="Add Icon"/>
                 </div>
             </header>
         </main>
