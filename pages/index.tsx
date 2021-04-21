@@ -11,6 +11,7 @@ const index = () => {
             </Head>
 
             <Header />
+            <h1>DashBoard</h1>
         </div>
     )
 }
