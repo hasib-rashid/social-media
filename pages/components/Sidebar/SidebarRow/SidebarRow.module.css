@@ -2,6 +2,16 @@
     display: flex;
     align-items: center;
     margin: 4px 10px;
+    background-color: #222227;
+    padding: 7px 20px;
+    border-radius: 13px;
+    width: 255px;
+    transition: all 0.2s ease;
+}
+
+.SidebarRow:hover {
+    background-color: #353434;
+    cursor: pointer;
 }
 
 .SidebarRow img {
@@ -9,4 +19,5 @@
     width: 30px;
     height: 30px;
     border-radius: 50%;
+    margin-right: 15px;
 }

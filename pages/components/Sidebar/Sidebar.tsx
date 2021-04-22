@@ -5,7 +5,7 @@ import SidebarRow from './SidebarRow/SidebarRow'
 const Sidebar = () => {
     return (   
         <main>
-            <SidebarRow text="Something" image="https://www.w3schools.com/howto/img_avatar.png" alt="A Alt" />
+            <SidebarRow text="Hasib Al Rashid" image="https://www.w3schools.com/howto/img_avatar.png" alt="A Alt" />
         </main>
     )
 }
